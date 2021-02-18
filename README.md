@@ -27,7 +27,7 @@ App created as a backend of web application for creating initial drawing for til
 
 
   
-[Back to the Top ^](#Tile Calculator)
+[Back to the Top ^](#Tile-Calculator)
 
 ---
 
@@ -55,7 +55,7 @@ The project files should be ordered as below:
 
 
 
-[Back to the Top ^](#Tile Calculator)
+[Back to the Top ^](#Tile-Calculator)
 
 ---
 
@@ -66,5 +66,5 @@ Created by Przemyslaw Hinca
 
 - Github - [pshemekhinca](https://github.com/pshemekhinca)
 
-[Back to the Top ^](#Tile Calculator)
+[Back to the Top ^](#Tile-Calculator)
 
